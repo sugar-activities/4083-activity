@@ -1,0 +1,26 @@
+6
+  - Nate Ridderman: Fix problem with playing computer on SoaS
+  - New commits from Pootle
+
+5
+
+4
+  - Fixed problem with sugartubeconnection import on old bilds (needs testing)
+  - Nate Ridderman: Change references to 'Whites' and 'Blacks' to 'White' and 'Black'
+  - Allow GnuGo to pick up game state at any point in time, including resuming from Journal
+  - Mark territories at game end with pretty crosses. (Thanks Nate!)
+  - Minor code cleanups. 
+  - Added licensing information to activity.info (GPLv2 or later)
+2
+* Almost complete rewrite by aa. New features: 
+  - Cleaner code
+  - Save and resume games from Journal
+  - Different Board sizes
+  - Restart game button
+  - Better collaboration (turn enforcement, notifications)
+  - Pass and Undo in hotseat (not shared) mode. 
+  - Full Spanish translation
+
+1
+* New activity PlayGo written by Gerard J. Cerchio (www.circlesoft.com)
+
